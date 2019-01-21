@@ -1,2 +1,3 @@
 # hello-world
-Just start learn coding :D
+
+Hi all, I am just start learn coding :D
